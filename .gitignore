@@ -1,1 +1,10 @@
-node_modules
+.idea/
+.vscode/
+node_modules/
+frontEnd/*
+dist/
+.env
+coverage
+tmp/uploads/*
+
+.eslintcache
