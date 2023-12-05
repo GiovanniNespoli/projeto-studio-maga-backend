@@ -1,6 +1,6 @@
 import "reflect-metadata";
 import "express-async-errors";
-import "./modules/visitors/config/index";
+import "./config/index";
 import express, { Application } from "express";
 import cors from "cors";
 import routes from "./routes";
